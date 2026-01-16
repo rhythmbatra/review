@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const API_URL =
-  "https://script.google.com/macros/s/AKfycbxNnyF4AGTTk_bQKsjiuoOwAenxDG3rv9wmYk70kG-_xQ3MvXquK72OrzEVDvf0GrJp/exec";
+  "https://script.google.com/macros/s/AKfycbw1P3158cjogmraOTZyQm92LYJ5tf4bU7oQ59YxWQXb-Edmhli6XYcy4pnP-pnsh-6j/exec";
 
 const PRODUCTS = [
   "Evaara",
